@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PhoneNumberTest" tests="18" skipped="17" failures="0" errors="0" timestamp="2024-02-18T16:18:16" hostname="EPBYGROW00D8" time="0.066">
+  <properties/>
+  <testcase name="invalid - 9 digit" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - letters" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="valid - number with dots" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - punctuations" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - more than 11 digits" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - area code starts with 0" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - area code starts with 1" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - exchange code starts with 0" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - exchange code starts with 1" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="valid - numbers with multiple spaces" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - when 11 digits does not start with a 1" classname="PhoneNumberTest" time="0.001">
+    <skipped/>
+  </testcase>
+  <testcase name="valid - 11 digits starting with 1 with punctuation" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="valid - simple number" classname="PhoneNumberTest" time="0.06"/>
+  <testcase name="valid - 11 digits and starting with 1" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - exchange code starts with 0 on valid 11-digit number" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - exchange code starts with 1 on valid 11-digit number" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - area code starts with 0 on valid 11-digit number" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="invalid - area code starts with 1 on valid 11-digit number" classname="PhoneNumberTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

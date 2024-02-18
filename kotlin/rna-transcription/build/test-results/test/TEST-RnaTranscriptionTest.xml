@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RnaTranscriptionTest" tests="6" skipped="5" failures="0" errors="0" timestamp="2024-02-16T16:02:06" hostname="EPBYGROW00D8" time="0.037">
+  <properties/>
+  <testcase name="empty RNA" classname="RnaTranscriptionTest" time="0.034"/>
+  <testcase name="RNA complement of guanine is cytosine" classname="RnaTranscriptionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="RNA complement of thymine is adenine" classname="RnaTranscriptionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="RNA complement of cytosine is guanine" classname="RnaTranscriptionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="RNA complement of adenine is uracil" classname="RnaTranscriptionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="compound RNA" classname="RnaTranscriptionTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
